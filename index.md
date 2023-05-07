@@ -5,7 +5,7 @@
 ### Work Examples
 
 [City Services Operational Analysis](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/City Reporting - Animal Services.jpg?raw=true"/>
 
 ---
 [Video Game Sales Analysis](/pdf/sample_presentation.pdf)
